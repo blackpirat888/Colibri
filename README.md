@@ -1,42 +1,25 @@
-# Colibri – Bitcoin Key Scanner (2009–2012)
+# Colibri – BTC Hunter
 
-**Colibri** is an offline Android application designed to scan private key ranges and detect possible matches against a fixed, internal hash database originating from the early Bitcoin era (2009–2012).
+**Colibri – BTC Hunter** is a fully offline Android application designed to analyze cryptographic key patterns and check for matches against a fixed, internal hash database based on early Bitcoin activity (2009–2012).
 
-## Features
-- Private key generation (randomized)
+## 🚀 Features
+- Private key pattern analysis
 - Compressed and uncompressed public key support
-- Hashing via RIPEMD160 and SHA256
-- Built-in read-only hash database (not modifiable)
 - Taproot (x-only pubkey) and P2WSH support
-- Fully offline – no internet connection required
+- Hashing with SHA-256 and RIPEMD-160
+- Fixed, read-only hash database (non-editable)
+- 100% offline – no internet, no account, no data sharing
 
-## Security and Privacy
-- All computations happen on-device
-- No data is ever sent or stored
-- The app does not access location, files, or media
-- User cannot upload custom hashes – the database is fixed and protected
+## 🔒 Privacy
+- The app never connects to the internet
+- No data is collected, stored, or transmitted
+- No permissions are required for location, media, or contacts
+- All operations run entirely on the user's device
 
-## Legal Position
-Colibri follows the legal analogy of discovering a "treasure trove":
+## ⚠️ Legal Disclaimer
+Colibri – BTC Hunter is a secure, closed-environment tool.  
+Users are fully responsible for how they use the application.  
+The developer assumes no responsibility for misuse, unintended use, or any legal violations.
 
-> A treasure is something hidden in the past, whose owner is unknown or has forgotten it.  
-> The right to claim it belongs to the one who finds it – as long as the law is not violated.
-
-In international practice, treasure trove may be legally claimed if:
-- The original owner cannot be identified
-- The discovery was made honestly
-- Property rights are not infringed
-
-Colibri respects this principle by:
-- Working only with a fixed, non-editable database
-- Not targeting specific addresses
-- Not allowing user-uploaded content
-
-> Colibri is a safe, honest, offline exploration tool for early lost BTC.
-
-## Privacy Policy
-You can find our privacy policy here:  
-**[View Privacy Policy](https://blackpirat888.github.io/Colibri/privacy.html)**
-
-## Contact
-For support or questions, email: **blackpirat888@gmail.com**
+## 📬 Contact
+For questions, feedback, or support: **blackpirat888@gmail.com**
