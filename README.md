@@ -1,4 +1,4 @@
-# Colibri – Offline Keyspace Scanner
+# Colibri – Cryptographic Analyzer
 
 **Colibri** is a fully offline Android application for cryptographic exploration and key pattern analysis.  
 It compares cryptographic outputs against a fixed internal dataset derived from early blockchain history (2009–2012).
