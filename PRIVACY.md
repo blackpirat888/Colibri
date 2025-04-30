@@ -1,6 +1,6 @@
 # Privacy Policy – Colibri 
 
-Colibri фзз is an offline Android application that does not collect, store, or transmit any personal data.
+Colibri app is an offline Android application that does not collect, store, or transmit any personal data.
 
 ## 🚫 What We Don’t Do
 - No internet connection is ever used
