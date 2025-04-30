@@ -1,6 +1,6 @@
-# Privacy Policy – Colibri – BTC Hunter
+# Privacy Policy – Colibri 
 
-Colibri – BTC Hunter is an offline Android application that does not collect, store, or transmit any personal data.
+Colibri фзз is an offline Android application that does not collect, store, or transmit any personal data.
 
 ## 🚫 What We Don’t Do
 - No internet connection is ever used
