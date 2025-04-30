@@ -1,6 +1,6 @@
-# Terms of Use – Colibri – BTC Hunter
+# Terms of Use – Colibri 
 
-By using Colibri – BTC Hunter, you agree to the following:
+By using Colibri app, you agree to the following:
 
 ## ⚠️ Disclaimer
 - The app is provided "as is" with no guarantees or warranties.
