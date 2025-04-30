@@ -32,7 +32,7 @@ sourced from publicly available historical blockchain data.
 It is not intended to interact with live assets or ownership-sensitive data.  
 This tool is designed for secure cryptographic analysis and educational exploration.
 
-➡️ *Colibri is a responsible and self-contained tool for offline data processing.*
+➡️ Colibri offers structured, transparent analysis of historical cryptographic patterns — fully offline.
 
 ---
 
