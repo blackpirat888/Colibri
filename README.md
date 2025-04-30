@@ -60,6 +60,13 @@ Colibri does not collect, store, or transmit any personal data.
 
 ---
 
+⚖️ Terms of Use  
+By using this app, you agree that it is provided "as is" with no warranties.  
+You are solely responsible for how you use it.  
+[📄 View full Terms](TERMS.md)
+
+---
+
 ## 📬 Contact
 
 For support or questions, email:  
