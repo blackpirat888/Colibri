@@ -21,10 +21,10 @@ Colibri uses optimized local algorithms to ensure efficient, private, and isolat
 
 ### 🔐 Security & Intended Use
 
-Colibri performs all computations locally on the user’s device, without accessing personal data or system content.
+Colibri performs all computations locally on the user’s device, without accessing personal data or system content.  
 It operates independently, with no internet connection or integration with external sources.
 
-The internal dataset is fixed, read-only, and cannot be modified.
+The internal dataset is fixed, read-only, and cannot be modified.  
 Designed for research, structural analysis, and educational use, Colibri runs in a fully private environment.
 
 ➡️ Colibri enables focused, standalone analysis of historical key structures.
@@ -40,7 +40,7 @@ Colibri does not collect, store, or transmit any personal or device information.
 • All operations happen locally on the user’s device  
 • The app does not access any private system components  
 
-📄 View our Privacy Policy
+📄 [View our Privacy Policy](https://github.com/blackpirat888/Colibri/blob/main/PRIVACY.md)
 
 ---
 
@@ -50,7 +50,7 @@ By using this application, you acknowledge that it is provided “as is” witho
 The developer assumes no liability for how the application is used.  
 Responsibility for compliance with local laws rests solely with the user.
 
-📄 View our Terms of Use
+📄 [View our Terms of Use](https://github.com/blackpirat888/Colibri/blob/main/TERMS.md)
 
 ---
 
