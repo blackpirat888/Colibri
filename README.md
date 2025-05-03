@@ -3,11 +3,12 @@
 ## Offline tool for analyzing fixed historical cryptographic patterns
 
 Colibri is a lightweight offline utility designed for structural analysis within historical (2009–2012) cryptographic keyspaces.  
-The tool operates on a static, embedded dataset derived from legacy cryptographic structures and enables secure, on-device exploration — fully offline.
+The tool operates on a static, embedded dataset derived from legacy cryptographic structures and enables secure, on-device exploration.
 
 ---
 
 ### 🚀 Features
+
 • Internally generates randomized key-like sequences  
 • Processes compressed, uncompressed, and x-only data formats  
 • Calculates standard hashes for internal matching  
@@ -18,25 +19,22 @@ Colibri uses optimized local algorithms to ensure efficient, private, and isolat
 
 ---
 
-### 🔐 Security and Privacy
-• All computations are performed entirely on the user’s device  
-• The app does not collect, transmit, or store any user data  
-• No access to location, contacts, media, or external files  
-• The internal dataset is fixed and cannot be modified by users
+### 🔐 Security & Intended Use
 
----
+Colibri operates entirely offline, performing all computations locally on the user’s device.  
+It does not collect, transmit, or store any user data, and has no access to location, contacts, media, or external files.
 
-### ⚖️ Legal & Intended Use
-Colibri performs local computations using a fixed internal dataset, embedded within the application.  
+The internal dataset is fixed, read-only, and cannot be modified by users.  
+Colibri does not connect to external sources, live systems, or real-time data.
 
-It does not interact with external sources, user accounts, or real-time systems.  
-The tool is designed solely for research, structural analysis, and educational purposes in cryptographic contexts.  
+This tool is intended solely for research, structural analysis, and educational use in cryptographic contexts — fully isolated and privacy-respecting.
 
-➡️ Colibri enables transparent, isolated analysis of historical key structures — fully offline.
+➡️ Colibri enables transparent, offline analysis of historical key structures in a secure environment.
 
 ---
 
 ### 🔒 Privacy Policy
+
 Colibri does not collect, store, or transmit any personal or device information.
 
 • No internet access is used  
@@ -49,6 +47,7 @@ Colibri does not collect, store, or transmit any personal or device information.
 ---
 
 ### ⚖️ Terms of Use
+
 By using this application, you acknowledge that it is provided “as is” without warranties or guarantees.  
 The developer assumes no liability for how the application is used.  
 Responsibility for compliance with local laws rests solely with the user.
@@ -58,5 +57,6 @@ Responsibility for compliance with local laws rests solely with the user.
 ---
 
 ### 📬 Contact  
+
 For inquiries or support, contact:  
 **blackpirat888@gmail.com**
