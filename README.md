@@ -63,5 +63,5 @@ By using **Colibri**, you agree to the following:
 
 ### 📬 Contact
 
-For questions or support:
+For inquiries or support, contact:
 **[blackpirat888@gmail.com](mailto:blackpirat888@gmail.com)**
