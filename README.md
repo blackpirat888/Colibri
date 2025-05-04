@@ -44,7 +44,8 @@ By using **Colibri**, you agree to the following:
 * The app is provided "as is" with no guarantees
 * The developer is not liable for outcomes or misuse
 * Users are solely responsible for compliance with local laws
-* Colibri may continue running in the background while computations are active. This behavior is required for uninterrupted local processing and does not involve any internet use or data transmission.
+* Colibri may continue running in the background while computations are active.
+  This behavior is required for uninterrupted local processing and does not involve any internet use or data transmission.
 
 📄 [View Terms of Use](https://github.com/blackpirat888/Colibri/blob/main/TERMS.md)
 
