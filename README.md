@@ -1,43 +1,67 @@
-🐦 Colibri
-Lightweight offline tool for structural pattern analysis (2009–2012)
+# 🐦 Colibri
 
-Colibri is a compact, offline utility designed for analyzing structural patterns within historical datasets (2009–2012).
-It operates entirely on-device using a static, embedded reference set derived from publicly known legacy structures.
+**Colibri** is a lightweight offline utility designed for analyzing structural patterns in early-era datasets (2009–2012).
+It works entirely on-device using an embedded, read-only reference set.
 
-🚀 Key Features
-🧬 Generates randomized byte-like sequences internally
+---
 
-📦 Supports multiple binary formats (x-only, legacy, uncompressed)
+### 🚀 Features
 
-🧩 Detects patterns via read-only embedded digest set
+* Generates randomized byte-like data internally
+* Processes legacy and modern binary formats (compressed, uncompressed, x-only)
+* Matches computed digests against a fixed reference set
+* Logs any detected matches to a local file (MATCHES)
+* Operates without any network or cloud dependencies
 
-📁 Records structural matches in a local file (MATCHES)
+Colibri uses optimized local algorithms to ensure efficient, private, and isolated computation.
 
-⚡ Fully offline and optimized for secure computation
+---
 
-🔐 Privacy & Security
-❌ No internet access or background communication
+### 🔐 Privacy & Security
 
-🔒 No login, account, or personal data required
+**Colibri does not**:
 
-🚫 No access to contacts, storage, location, or media
+* Connect to the internet
+* Collect or transmit any personal or device data
+* Require login or registration
+* Access contacts, media, files, or location
 
-🧱 Embedded dataset is immutable and user-inaccessible
+**Colibri does**:
 
-🧠 All operations happen locally on your device
+* Run 100% offline
+* Operate in a self-contained environment
+* Keep your activity entirely private
+* Use an immutable, embedded dataset
 
-📄 View our Privacy Policy
+📄 [View Privacy Policy](https://github.com/blackpirat888/Colibri/blob/main/PRIVACY.md)
 
-⚖️ Terms of Use
-By using this application, you agree to the following:
+---
 
-The app is provided “as is”, with no warranties or guarantees
+### ⚖️ Terms of Use
 
-The developer assumes no liability for misuse or outcomes
+By using **Colibri**, you agree to the following:
 
-Compliance with local laws is the sole responsibility of the user
+* The app is provided "as is" with no guarantees
+* The developer is not liable for outcomes or misuse
+* Users are solely responsible for compliance with local laws
 
-📄 View our Terms of Use
+📄 [View Terms of Use](https://github.com/blackpirat888/Colibri/blob/main/TERMS.md)
 
-📬 Contact
-For inquiries or support: blackpirat888@gmail.com
+---
+
+### 🧩 Intended Use
+
+**Colibri** is built for:
+
+* Educational exploration of historical data structures
+* Offline research of legacy cryptographic patterns
+* Analytical use in secure, private environments
+
+➡️ It is not meant for interacting with live systems or real-time networks.
+
+---
+
+### 📬 Contact
+
+For questions or support:
+**[blackpirat888@gmail.com](mailto:blackpirat888@gmail.com)**
