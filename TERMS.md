@@ -10,7 +10,7 @@ By using Colibri app, you agree to the following:
 ## 🔐 Security
 - Colibri works entirely offline and does not communicate with any external server.
 - All computations occur locally using an embedded, non-editable dataset.
-- The app does not allow uploading custom data or modifying the internal hash base.
+- The app does not support uploading custom data or altering internal logic.
 
 ## 🔄 Changes
 These terms may be updated in the future. Continued use of the app implies acceptance of the latest version.
